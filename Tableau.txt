@@ -1,0 +1,18 @@
+
++----------------+--------------+-------------+
+|     GARE       |   DISTANCE   |     PRIX    |
++----------------+--------------+-------------+
+|Meinohama       |    1.5km     |    ZONE 1   |
+|Muromi          |    0.8km     |210 ¥ | 110 ¥|
+|Fujisaki        |    1.1km     |             |
+|Nishijin        |    1.2km     |    ZONE 2   |
+|Ohorikoen       |    0.8km     |260 ¥ | 130 ¥|   
+|Akasaka         |    1.1km     |             |
+|Tenjin          |    0.8km     |    ZONE 3   | 
+|Nakasu-Kawabata |    1.0km     |300 ¥ | 150 ¥|   
+|Gion            |    0.7km     |             |
+|Hakata          |    1.2km     |    ZONE 4   |
+|Higashi-Hie     |    2.1km     |340 ¥ | 170 ¥|   
+|Fukuokakuko     |    0.0km     |             |
++----------------+--------------+-------------+
+
